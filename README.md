@@ -4,7 +4,7 @@ Submission Dicoding Course - Belajar Membuat Front End Web untuk Pemula. Dibangu
 # Cara penggunaan
 <ol>
   <li>Clone / unduh repositori ini</li>  
-  <q>git clone https://github.com/agisx/Bookshelf-Apps</q>  
+  <q>git clone https://ardiansyah232003.github.io/project-3.github.io</q>  
   <li>Buka file index.html di browser kesayangan anda</li>
   <li><a href="#fitur">Fitur</a></li> 
   <ol type="a">
